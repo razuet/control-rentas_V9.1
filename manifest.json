@@ -1,0 +1,8 @@
+{
+  "name": "Rentas 5 de Mayo",
+  "short_name": "Rentas",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50"
+}
